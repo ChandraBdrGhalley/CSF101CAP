@@ -8,6 +8,7 @@
 # https://youtu.be/X1XH774hId0?si=xIDrmgTKW93J70pK
 # https://youtu.be/Qcefu1jVPds?si=5EYdvW1BXrKZmjmh
 # https://www.askpython.com/python/examples/rock-paper-scissors-in-python-with-ascii-hand#:~:text=The%20code%20for%20the%20same%20is%20shown%20below%3A,have%20three%20choices%20namely%20rock%2C%20paper%20and%20scissors.%22%29
+# https://www.dataquest.io/blog/read-file-python/#:~:text=Python%20provides%20a%20built%2Din,we%20can%20manipulate%20its%20content
 ################################
 # SOLUTION
 # Your Solution Score:50169
